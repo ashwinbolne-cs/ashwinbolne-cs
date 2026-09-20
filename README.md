@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
 
-<!--
-**ashwinbolne-cs/ashwinbolne-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring AI Engineering, LLMs, Agentic AI & Intelligent Systems.
 
-Here are some ideas to get you started:
+## What I'm Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Engineering
+- Large Language Models (LLMs)
+- Agentic AI
+- AI Agents & Multi-Agent Systems
+- Intelligent Systems
+- AI-powered applications
+
+## Currently Learning
+
+I'm focused on building practical AI systems from the ground up — understanding the fundamentals, experimenting with modern AI tools and frameworks, and turning ideas into working projects.
+
+## Building & Contributing
+
+Learning by building, experimenting, and contributing to open-source AI projects.
+
+---
+
+*Always learning. Always building.*
